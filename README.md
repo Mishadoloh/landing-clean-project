@@ -1,19 +1,27 @@
 # Bike Landing Page
 
-Responsive landing page created as part of a frontend portfolio project.
+Responsive landing page created as part of a frontend portfolio project.  
+Designed to showcase clean layout, interactive UI, and responsive design for desktop, tablet, and mobile devices.
 
 ## Demo
-https://mishadoloh.github.io/layout_landing-page/
+[Live Demo](https://mishadoloh.github.io/layout_landing-page/)
 
 ## Technologies
 - HTML5
 - SCSS
-- JavaScript
-- Parcel
+- JavaScript (ES6+)
+- Parcel (build tool)
+
+## Features
+- Fully responsive layout
+- Semantic HTML markup
+- Reusable SCSS components
+- Interactive menu and buttons
+- Optimized for cross-device performance
 
 ## How to Run the Project Locally
 
-Follow these steps carefully to run the project on your computer:
+Follow these steps carefully to run the project on your machine:
 
 1. **Clone the repository**  
    Replace `USERNAME` and `REPO` with your GitHub username and repository name:
@@ -23,7 +31,6 @@ Follow these steps carefully to run the project on your computer:
 Navigate to the project folder
 
 bash
-Копіювати код
 cd REPO
 Install dependencies
 
@@ -33,7 +40,7 @@ Start the development server
 
 bash
 npm start
-This will run the project locally at http://localhost:1234.
+Open http://localhost:1234 in your browser to see the project.
 
 Build the project for production
 
