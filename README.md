@@ -27,9 +27,3 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Mishadoloh/layout_landing-page.git
-
-Reusable and maintainable SCSS components
-
-Clean and readable code
-
-Proper file and project organization
